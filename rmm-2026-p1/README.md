@@ -1,4 +1,4 @@
-# Implementing the solution to an Olympiad combinatorics game
+# Implementing the solution to a combinatorics game by an inductive construction of a Hamiltonian cycle
 
 ## Description
 
